@@ -20,7 +20,7 @@ $email_body = "User Name: $name.\n".
               "User Message: $message.\n";
 
 // Recipient email address
-$to = 'mabdullahjaved203@gmail.com';
+$to = ' Recipient email address';
 
 // Headers
 $headers = "From: $email_from \r\n";
